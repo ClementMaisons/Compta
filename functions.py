@@ -20,7 +20,7 @@ SOLDE_INITIAL = {
 }
 
 # Annee_dep = 2019
-dossier = "G:\\Mon Drive\\Info fun\\Compta - pipenv\\Extract_for_python\\test_2019\\"
+# dossier = "G:\\Mon Drive\\Info fun\\Projet\\Compta\\Extract_for_python\\test_2019\\"
 
 
 
@@ -61,7 +61,7 @@ def initialisation(nom_dossier):
 
     return df_total
 
-df_global = initialisation(dossier)
+# df_global = initialisation(dossier)
 # print(df_global)
 
 
