@@ -1,0 +1,67 @@
+body {
+    font-family: Calibri;
+    background-color: grey;
+    margin:0;
+    padding:0;
+    overflow:hidden;
+}
+
+#whole_page {
+    /* background-color: rgb(165, 147, 42); */
+    background-color: #ced2cc;
+}
+
+#line_1 {
+    /* background-color: rgb(42, 165, 69); */
+    background-color: #ced2cc;
+}
+
+#line_2_col_1 {
+    /* background-color: rgb(204, 83, 83); */
+    background-color: #ced2cc;
+}
+
+#line_2_col_2 {
+    /* background-color: rgb(165, 42, 42); */
+    background-color: #ced2cc;
+}
+
+#line_3_col_1 {
+    /* background-color: rgb(69, 42, 165); */
+    background-color: #ced2cc;
+}
+
+#line_3_col_2 {
+    /* background-color: rgb(109, 84, 202); */
+    background-color: #ced2cc;
+}
+
+#line_3_col_3 {
+    /* background-color: rgb(139, 121, 206); */
+    background-color: #ced2cc;
+    color: #000000
+}
+
+
+#nb_mois_2 .rc-slider-rail {
+    background-color: #0c3158;
+}
+
+#nb_mois_2 .rc-slider-track {
+    background-color: #1C4E80;
+}
+
+#nb_mois_2 .rc-slider-dot {
+    background-color: #ffffff;
+    border-color: #1C4E80;
+}
+
+#nb_mois_2 .rc-slider-handle {
+    background-color: #ffffff;
+    border-color: #1C4E80;
+}
+
+#nb_mois_2 .rc-slider-mark-text {
+    color: #000000;
+    font-size: 16px;
+}
