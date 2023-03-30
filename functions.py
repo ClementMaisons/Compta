@@ -20,7 +20,7 @@ SOLDE_INITIAL = {
 }
 
 # Annee_dep = 2019
-# dossier = "G:\\Mon Drive\\Info fun\\Projet\\Compta\\Extract_for_python\\test_2019\\"
+# dossier = "G:\\Mon Drive\\Info fun\\Projet\\Compta\\Extract_for_python\\"
 
 
 

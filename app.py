@@ -55,7 +55,7 @@ date_max_prec = date_max_global
 global df_global
 global nom_dossier
 
-nom_dossier = "G:\\Mon Drive\\Info fun\\Projet\\Compta\\Extract_for_python\\test_2019\\"
+nom_dossier = "G:\\Mon Drive\\Info fun\\Projet\\Compta\\Extract_for_python\\"
 df_global = initialisation(nom_dossier)
 
 
